@@ -1,6 +1,6 @@
 # List Operations in Python: Sum of List Items
-## NAME :G.SANJAY
-## REG NO:212224230243
+## NAME : DHANUJA M
+## REG NO:212224230057
 ## 🎯 Aim
 To write a Python program that calculates the **sum of all elements** in a list.
 
